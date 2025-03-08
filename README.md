@@ -1,6 +1,9 @@
 # gridkid
 A web component for making responsive css grids.
 
+## Installation
+Copy the source code [here](https://raw.githubusercontent.com/Phillip-England/grid-kid/refs/heads/main/static/gridkid.js).
+
 ## Full Example
 gridkid is just a web component. Use it like this:
 
